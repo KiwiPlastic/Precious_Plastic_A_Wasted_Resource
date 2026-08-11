@@ -30,6 +30,7 @@ It can be worked and finished with wood working tools ie. Power tools like wood 
 ## 📦 Toasted Sandwich Maker - A great place to start
 
 <img width="416" height="307" alt="IMG_6430 HEIC" src="https://github.com/user-attachments/assets/92bd2377-9149-4bd3-b68f-9f04afb99221" />
+<img width="395" height="183" alt="IMG_0883" src="https://github.com/user-attachments/assets/87690331-f453-4082-ba3d-3a7f20f50916" />
 
 Examples made using a Toasted Sandwich maker
 

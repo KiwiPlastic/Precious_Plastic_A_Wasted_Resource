@@ -81,6 +81,8 @@ At the Extruder nozzle a closed mould can be attached or a open mould like a squ
 
 ## 📦 ZoE Diagram
 
+<img width="2048" height="1428" alt="ZoE Wiring" src="https://github.com/user-attachments/assets/cf264005-e1e5-43e0-8a64-420a795c0c46" />
+
 ## 🛠️ Usage
 Not there yet
 
